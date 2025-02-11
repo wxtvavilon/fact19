@@ -1,0 +1,25 @@
+td, th {
+	text-align: left;
+	color: #202129;
+	padding: 4px;
+}
+.banana {
+	transform: rotate(180deg)	
+}
+table {
+	border: 1px solid #09ff00;
+	border-collapse: collapse;
+}
+.tdbanana{
+	background-color: #f7e1bc;
+}
+.tdkiwi {
+	background-color: #c1f2a5;
+}
+.tdapple {
+	background-color: #88f797;
+}
+.appleimg {
+	float:right;
+	margin: 8px 8px 8px 8px;
+}

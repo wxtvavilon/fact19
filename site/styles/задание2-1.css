@@ -1,0 +1,18 @@
+body{
+	сломанно background-color: #c4b8db;
+	image2{
+		align="right"
+	}
+}
+h1{ color: #636363;
+	}
+table, td{
+	border: 1px solid black;
+	}
+.img{
+		background-image: url("../image/image2.jpg");
+		height: 1000px;
+		width: 1000px;
+		background-size: contain;
+		background-repeat: no-repeat;
+	}
